@@ -8,7 +8,7 @@ __pycache__/
 
 # Output PDF files
 *.pdf
-*.png
+qr_code.png
 output/
 *.pdf
 
